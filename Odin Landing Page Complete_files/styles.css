@@ -1,0 +1,226 @@
+body {
+    background-color: white;
+}
+
+
+footer{
+    background-color: #1f2937;
+    color: #f9faf8;
+    margin: -10px;
+    padding: 40px;
+    text-align: center;
+}
+
+/*section 4*/
+#button2{
+    display: inline-block;
+    text-align:center;
+    margin-left: 125px;
+    background-color: #3882F6;
+    color: #f9faf8;
+    text-decoration: none;
+    border:2px solid #f9faf8;
+    border-radius: 8px;
+    width: 125px;
+    height: 30px;
+}
+
+
+#txt2{
+    font-size: 15px;
+    color: #E5E7EB;
+    display: inline-block;
+    width: auto;
+}
+
+.wrapper{
+    background-color: #3882F6;
+    padding: 40px;
+    padding-left: 100px;
+    color: #f9faf8;
+    font-weight: 50px;
+    font-size: 18px;
+    width: auto;
+    
+    
+}
+
+.section4{
+    background-color:#f9faf8;
+    margin: -10px;
+    padding-top: 100px;
+    padding-left: 200px;  
+    padding-bottom: 100px;
+    padding-right: 200px;
+    width: auto;
+    
+}
+
+
+/*All Below is secton 3*/
+#section3subtxt{
+    size: 18px;
+    color: #1f2937;
+    font-weight: bold;
+    text-align: right;
+    
+}
+
+#section3txt{
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 50;
+    font-style: italic;
+    display: inline-block;
+    overflow-wrap: normal;
+    width: auto;
+    
+}
+
+.section3{
+    background-color: #E5E7EB;
+    margin: -10px;
+    padding-top: 100px;
+    padding-left: 250px;  
+    padding-bottom: 100px;
+    padding-right: 250px;
+}
+
+
+/*section 2 images*/
+.section2 img{
+    border:2px solid #3882F6;
+    border-radius: 8px;
+}
+
+div.images{
+    margin-top: 50px;
+    margin-left: 50px;
+    
+}
+
+div.image1{
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 150px;
+}
+
+div.image2{
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 150px;
+    margin-left: 50px;
+}
+div.image3{
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 150px;
+    margin-left: 50px;
+}
+div.image4{
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 150px;
+    margin-left: 50px;
+}
+
+/*Section 2 text*/
+.section2 #maintext2{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    margin-left: 250px;
+}
+
+/*Section 2 Background formatting and container*/
+.section2{
+    background-color: #f9faf8;
+    margin: -10px;
+    padding-top: 50px;
+    padding-left: 200px;  
+    padding-bottom: 100px;
+}
+
+
+/* All Section 1 */
+
+button{
+    margin-top: 0px;
+    background-color: #3882F6;
+    color: #f9faf8;
+    height: 30px;
+    width:125px;
+    border: none;
+    border-radius: 8px;
+}
+
+#pic{
+    margin-left: 100px;
+    display: inline-block;
+    margin-bottom: 0px;
+}
+.section1 #subtext{
+    font-size: 18px;
+    color: #E5E7EB;
+    font-weight: 100;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    border: 0px;
+}
+
+.section1 #maintext{ 
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bolder;
+    overflow-wrap: normal;
+    width: 400px;
+    display: inline-block;
+    padding-bottom: 0px;
+}
+.section1{
+    background-color: #1f2937;
+    margin: -10px;
+    padding-top: 50px;
+    padding-left: 200px;  
+    padding-bottom: 50px;
+    
+   
+}
+
+
+
+/*Space between header logo and link1 */
+#link1{
+    margin-left: 400px;
+}
+
+/*Header Links*/
+header .links{
+    color: #E5E7EB;
+    font-size: 18px;
+    padding-left: 10px;
+    margin-right: 0;
+    text-decoration: none;
+    
+}
+/*Header Background */
+header{
+    background-color: #1f2937;
+    padding: 20px;
+    padding-left: 200px;
+    margin: -10px;
+    top: 0px;
+}
+
+/* Header Logo */
+header span{
+    color: #f9faf8;
+    font-size: 24px;
+}
+
+
+
